@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/steve/source/repos/EndlessRunnerMigrate/EndlessRunnerMigrate/Content/Images/Background/backDrop.jpg</File>
+    <File>C:/Users/steve/source/repos/EndlessRunnerMigrate/EndlessRunnerMigrate/Content/Images/Background/background.jpg</File>
+    <File>C:/Users/steve/source/repos/EndlessRunnerMigrate/EndlessRunnerMigrate/Content/Images/Background/collectables.png</File>
+    <File>C:/Users/steve/source/repos/EndlessRunnerMigrate/EndlessRunnerMigrate/Content/Images/Background/controls.png</File>
+    <File>C:/Users/steve/source/repos/EndlessRunnerMigrate/EndlessRunnerMigrate/Content/Images/Background/controlsBtn.png</File>
+    <File>C:/Users/steve/source/repos/EndlessRunnerMigrate/EndlessRunnerMigrate/Content/Images/Background/escapeKey.png</File>
+    <File>C:/Users/steve/source/repos/EndlessRunnerMigrate/EndlessRunnerMigrate/Content/Images/Background/menuBtn.png</File>
+    <File>C:/Users/steve/source/repos/EndlessRunnerMigrate/EndlessRunnerMigrate/Content/Images/Background/quitBtn.png</File>
+    <File>C:/Users/steve/source/repos/EndlessRunnerMigrate/EndlessRunnerMigrate/Content/Images/Background/retryBtn.png</File>
+    <File>C:/Users/steve/source/repos/EndlessRunnerMigrate/EndlessRunnerMigrate/Content/Images/Background/startBtn.png</File>
+    <File>C:/Users/steve/source/repos/EndlessRunnerMigrate/EndlessRunnerMigrate/Content/Images/Sprites/bussprite.png</File>
+    <File>C:/Users/steve/source/repos/EndlessRunnerMigrate/EndlessRunnerMigrate/Content/Images/Sprites/CrashCrate.png</File>
+    <File>C:/Users/steve/source/repos/EndlessRunnerMigrate/EndlessRunnerMigrate/Content/Images/Sprites/DuckJackie.png</File>
+    <File>C:/Users/steve/source/repos/EndlessRunnerMigrate/EndlessRunnerMigrate/Content/Images/Sprites/Game Boy Advance - Crash Nitro Kart - Crates.png</File>
+    <File>C:/Users/steve/source/repos/EndlessRunnerMigrate/EndlessRunnerMigrate/Content/Images/Sprites/gangster.png</File>
+    <File>C:/Users/steve/source/repos/EndlessRunnerMigrate/EndlessRunnerMigrate/Content/Images/Sprites/GangsterDeath.png</File>
+    <File>C:/Users/steve/source/repos/EndlessRunnerMigrate/EndlessRunnerMigrate/Content/Images/Sprites/greenStar.png</File>
+    <File>C:/Users/steve/source/repos/EndlessRunnerMigrate/EndlessRunnerMigrate/Content/Images/Sprites/JackieChanRoll .png</File>
+    <File>C:/Users/steve/source/repos/EndlessRunnerMigrate/EndlessRunnerMigrate/Content/Images/Sprites/JackieDeath.png</File>
+    <File>C:/Users/steve/source/repos/EndlessRunnerMigrate/EndlessRunnerMigrate/Content/Images/Sprites/jcman.png</File>
+    <File>C:/Users/steve/source/repos/EndlessRunnerMigrate/EndlessRunnerMigrate/Content/Images/Sprites/orangeStar.png</File>
+    <File>C:/Users/steve/source/repos/EndlessRunnerMigrate/EndlessRunnerMigrate/Content/Images/Sprites/platform.png</File>
+    <File>C:/Users/steve/source/repos/EndlessRunnerMigrate/EndlessRunnerMigrate/Content/Images/Sprites/redStar.png</File>
+    <File>C:/Users/steve/source/repos/EndlessRunnerMigrate/EndlessRunnerMigrate/Content/Sounds/Music/gameOver.mp3</File>
+    <File>C:/Users/steve/source/repos/EndlessRunnerMigrate/EndlessRunnerMigrate/Content/Sounds/Music/Jackie Chan - Police Story Theme OST (320  kbps).mp3</File>
+    <File>C:/Users/steve/source/repos/EndlessRunnerMigrate/EndlessRunnerMigrate/Content/Sounds/Music/mainMenu.mp3</File>
+    <File>C:/Users/steve/source/repos/EndlessRunnerMigrate/EndlessRunnerMigrate/Content/Sounds/Sound Effects/hkPunch.wav</File>
+    <File>C:/Users/steve/source/repos/EndlessRunnerMigrate/EndlessRunnerMigrate/Content/Sounds/Sound Effects/star.wav</File>
+    <File>C:/Users/steve/source/repos/EndlessRunnerMigrate/EndlessRunnerMigrate/Content/Texts/GameItems.spritefont</File>
+    <File>C:/Users/steve/source/repos/EndlessRunnerMigrate/EndlessRunnerMigrate/Content/Texts/TitleFont.spritefont</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

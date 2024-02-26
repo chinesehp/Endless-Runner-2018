@@ -1,0 +1,70 @@
+C:\Users\steve\source\repos\EndlessRunnerMigrate\EndlessRunnerMigrate\bin\Debug\net6.0-windows\EndlessRunnerMigrate.exe
+C:\Users\steve\source\repos\EndlessRunnerMigrate\EndlessRunnerMigrate\bin\Debug\net6.0-windows\EndlessRunnerMigrate.deps.json
+C:\Users\steve\source\repos\EndlessRunnerMigrate\EndlessRunnerMigrate\bin\Debug\net6.0-windows\EndlessRunnerMigrate.runtimeconfig.json
+C:\Users\steve\source\repos\EndlessRunnerMigrate\EndlessRunnerMigrate\bin\Debug\net6.0-windows\EndlessRunnerMigrate.dll
+C:\Users\steve\source\repos\EndlessRunnerMigrate\EndlessRunnerMigrate\bin\Debug\net6.0-windows\EndlessRunnerMigrate.pdb
+C:\Users\steve\source\repos\EndlessRunnerMigrate\EndlessRunnerMigrate\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\steve\source\repos\EndlessRunnerMigrate\EndlessRunnerMigrate\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\steve\source\repos\EndlessRunnerMigrate\EndlessRunnerMigrate\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\steve\source\repos\EndlessRunnerMigrate\EndlessRunnerMigrate\bin\Debug\net6.0-windows\MonoGame.Framework.dll
+C:\Users\steve\source\repos\EndlessRunnerMigrate\EndlessRunnerMigrate\bin\Debug\net6.0-windows\SharpDX.dll
+C:\Users\steve\source\repos\EndlessRunnerMigrate\EndlessRunnerMigrate\bin\Debug\net6.0-windows\SharpDX.Direct2D1.dll
+C:\Users\steve\source\repos\EndlessRunnerMigrate\EndlessRunnerMigrate\bin\Debug\net6.0-windows\SharpDX.Direct3D11.dll
+C:\Users\steve\source\repos\EndlessRunnerMigrate\EndlessRunnerMigrate\bin\Debug\net6.0-windows\SharpDX.Direct3D9.dll
+C:\Users\steve\source\repos\EndlessRunnerMigrate\EndlessRunnerMigrate\bin\Debug\net6.0-windows\SharpDX.DXGI.dll
+C:\Users\steve\source\repos\EndlessRunnerMigrate\EndlessRunnerMigrate\bin\Debug\net6.0-windows\SharpDX.Mathematics.dll
+C:\Users\steve\source\repos\EndlessRunnerMigrate\EndlessRunnerMigrate\bin\Debug\net6.0-windows\SharpDX.MediaFoundation.dll
+C:\Users\steve\source\repos\EndlessRunnerMigrate\EndlessRunnerMigrate\bin\Debug\net6.0-windows\SharpDX.XAudio2.dll
+C:\Users\steve\source\repos\EndlessRunnerMigrate\EndlessRunnerMigrate\bin\Debug\net6.0-windows\SharpDX.XInput.dll
+C:\Users\steve\source\repos\EndlessRunnerMigrate\EndlessRunnerMigrate\bin\Debug\net6.0-windows\runtimes\debian-x64\native\libuv.so
+C:\Users\steve\source\repos\EndlessRunnerMigrate\EndlessRunnerMigrate\bin\Debug\net6.0-windows\runtimes\fedora-x64\native\libuv.so
+C:\Users\steve\source\repos\EndlessRunnerMigrate\EndlessRunnerMigrate\bin\Debug\net6.0-windows\runtimes\opensuse-x64\native\libuv.so
+C:\Users\steve\source\repos\EndlessRunnerMigrate\EndlessRunnerMigrate\bin\Debug\net6.0-windows\runtimes\osx\native\libuv.dylib
+C:\Users\steve\source\repos\EndlessRunnerMigrate\EndlessRunnerMigrate\bin\Debug\net6.0-windows\runtimes\rhel-x64\native\libuv.so
+C:\Users\steve\source\repos\EndlessRunnerMigrate\EndlessRunnerMigrate\bin\Debug\net6.0-windows\runtimes\win7-arm\native\libuv.dll
+C:\Users\steve\source\repos\EndlessRunnerMigrate\EndlessRunnerMigrate\bin\Debug\net6.0-windows\runtimes\win7-x64\native\libuv.dll
+C:\Users\steve\source\repos\EndlessRunnerMigrate\EndlessRunnerMigrate\bin\Debug\net6.0-windows\runtimes\win7-x86\native\libuv.dll
+C:\Users\steve\source\repos\EndlessRunnerMigrate\EndlessRunnerMigrate\obj\Debug\net6.0-windows\EndlessRunnerMigrate.csproj.AssemblyReference.cache
+C:\Users\steve\source\repos\EndlessRunnerMigrate\EndlessRunnerMigrate\obj\Debug\net6.0-windows\EndlessRunnerMigrate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\steve\source\repos\EndlessRunnerMigrate\EndlessRunnerMigrate\obj\Debug\net6.0-windows\EndlessRunnerMigrate.AssemblyInfoInputs.cache
+C:\Users\steve\source\repos\EndlessRunnerMigrate\EndlessRunnerMigrate\obj\Debug\net6.0-windows\EndlessRunnerMigrate.AssemblyInfo.cs
+C:\Users\steve\source\repos\EndlessRunnerMigrate\EndlessRunnerMigrate\obj\Debug\net6.0-windows\EndlessRunnerMigrate.csproj.CoreCompileInputs.cache
+C:\Users\steve\source\repos\EndlessRunnerMigrate\EndlessRunnerMigrate\obj\Debug\net6.0-windows\EndlessRunnerMigrate.csproj.CopyComplete
+C:\Users\steve\source\repos\EndlessRunnerMigrate\EndlessRunnerMigrate\obj\Debug\net6.0-windows\EndlessRunnerMigrate.dll
+C:\Users\steve\source\repos\EndlessRunnerMigrate\EndlessRunnerMigrate\obj\Debug\net6.0-windows\refint\EndlessRunnerMigrate.dll
+C:\Users\steve\source\repos\EndlessRunnerMigrate\EndlessRunnerMigrate\obj\Debug\net6.0-windows\EndlessRunnerMigrate.pdb
+C:\Users\steve\source\repos\EndlessRunnerMigrate\EndlessRunnerMigrate\obj\Debug\net6.0-windows\EndlessRunnerMigrate.genruntimeconfig.cache
+C:\Users\steve\source\repos\EndlessRunnerMigrate\EndlessRunnerMigrate\obj\Debug\net6.0-windows\ref\EndlessRunnerMigrate.dll
+C:\Users\steve\source\repos\EndlessRunnerMigrate\EndlessRunnerMigrate\bin\Debug\net6.0-windows\Content\Images\Background\backDrop.xnb
+C:\Users\steve\source\repos\EndlessRunnerMigrate\EndlessRunnerMigrate\bin\Debug\net6.0-windows\Content\Images\Background\background.xnb
+C:\Users\steve\source\repos\EndlessRunnerMigrate\EndlessRunnerMigrate\bin\Debug\net6.0-windows\Content\Images\Background\collectables.xnb
+C:\Users\steve\source\repos\EndlessRunnerMigrate\EndlessRunnerMigrate\bin\Debug\net6.0-windows\Content\Images\Background\controls.xnb
+C:\Users\steve\source\repos\EndlessRunnerMigrate\EndlessRunnerMigrate\bin\Debug\net6.0-windows\Content\Images\Background\controlsBtn.xnb
+C:\Users\steve\source\repos\EndlessRunnerMigrate\EndlessRunnerMigrate\bin\Debug\net6.0-windows\Content\Images\Background\escapeKey.xnb
+C:\Users\steve\source\repos\EndlessRunnerMigrate\EndlessRunnerMigrate\bin\Debug\net6.0-windows\Content\Images\Background\menuBtn.xnb
+C:\Users\steve\source\repos\EndlessRunnerMigrate\EndlessRunnerMigrate\bin\Debug\net6.0-windows\Content\Images\Background\quitBtn.xnb
+C:\Users\steve\source\repos\EndlessRunnerMigrate\EndlessRunnerMigrate\bin\Debug\net6.0-windows\Content\Images\Background\retryBtn.xnb
+C:\Users\steve\source\repos\EndlessRunnerMigrate\EndlessRunnerMigrate\bin\Debug\net6.0-windows\Content\Images\Background\startBtn.xnb
+C:\Users\steve\source\repos\EndlessRunnerMigrate\EndlessRunnerMigrate\bin\Debug\net6.0-windows\Content\Images\Sprites\bussprite.xnb
+C:\Users\steve\source\repos\EndlessRunnerMigrate\EndlessRunnerMigrate\bin\Debug\net6.0-windows\Content\Images\Sprites\CrashCrate.xnb
+C:\Users\steve\source\repos\EndlessRunnerMigrate\EndlessRunnerMigrate\bin\Debug\net6.0-windows\Content\Images\Sprites\DuckJackie.xnb
+C:\Users\steve\source\repos\EndlessRunnerMigrate\EndlessRunnerMigrate\bin\Debug\net6.0-windows\Content\Images\Sprites\Game Boy Advance - Crash Nitro Kart - Crates.xnb
+C:\Users\steve\source\repos\EndlessRunnerMigrate\EndlessRunnerMigrate\bin\Debug\net6.0-windows\Content\Images\Sprites\gangster.xnb
+C:\Users\steve\source\repos\EndlessRunnerMigrate\EndlessRunnerMigrate\bin\Debug\net6.0-windows\Content\Images\Sprites\GangsterDeath.xnb
+C:\Users\steve\source\repos\EndlessRunnerMigrate\EndlessRunnerMigrate\bin\Debug\net6.0-windows\Content\Images\Sprites\greenStar.xnb
+C:\Users\steve\source\repos\EndlessRunnerMigrate\EndlessRunnerMigrate\bin\Debug\net6.0-windows\Content\Images\Sprites\JackieChanRoll .xnb
+C:\Users\steve\source\repos\EndlessRunnerMigrate\EndlessRunnerMigrate\bin\Debug\net6.0-windows\Content\Images\Sprites\JackieDeath.xnb
+C:\Users\steve\source\repos\EndlessRunnerMigrate\EndlessRunnerMigrate\bin\Debug\net6.0-windows\Content\Images\Sprites\jcman.xnb
+C:\Users\steve\source\repos\EndlessRunnerMigrate\EndlessRunnerMigrate\bin\Debug\net6.0-windows\Content\Images\Sprites\orangeStar.xnb
+C:\Users\steve\source\repos\EndlessRunnerMigrate\EndlessRunnerMigrate\bin\Debug\net6.0-windows\Content\Images\Sprites\platform.xnb
+C:\Users\steve\source\repos\EndlessRunnerMigrate\EndlessRunnerMigrate\bin\Debug\net6.0-windows\Content\Images\Sprites\redStar.xnb
+C:\Users\steve\source\repos\EndlessRunnerMigrate\EndlessRunnerMigrate\bin\Debug\net6.0-windows\Content\Sounds\Music\gameOver.wma
+C:\Users\steve\source\repos\EndlessRunnerMigrate\EndlessRunnerMigrate\bin\Debug\net6.0-windows\Content\Sounds\Music\gameOver.xnb
+C:\Users\steve\source\repos\EndlessRunnerMigrate\EndlessRunnerMigrate\bin\Debug\net6.0-windows\Content\Sounds\Music\Jackie Chan - Police Story Theme OST (320  kbps).wma
+C:\Users\steve\source\repos\EndlessRunnerMigrate\EndlessRunnerMigrate\bin\Debug\net6.0-windows\Content\Sounds\Music\Jackie Chan - Police Story Theme OST (320  kbps).xnb
+C:\Users\steve\source\repos\EndlessRunnerMigrate\EndlessRunnerMigrate\bin\Debug\net6.0-windows\Content\Sounds\Music\mainMenu.wma
+C:\Users\steve\source\repos\EndlessRunnerMigrate\EndlessRunnerMigrate\bin\Debug\net6.0-windows\Content\Sounds\Music\mainMenu.xnb
+C:\Users\steve\source\repos\EndlessRunnerMigrate\EndlessRunnerMigrate\bin\Debug\net6.0-windows\Content\Sounds\Sound Effects\hkPunch.xnb
+C:\Users\steve\source\repos\EndlessRunnerMigrate\EndlessRunnerMigrate\bin\Debug\net6.0-windows\Content\Sounds\Sound Effects\star.xnb
+C:\Users\steve\source\repos\EndlessRunnerMigrate\EndlessRunnerMigrate\bin\Debug\net6.0-windows\Content\Texts\GameItems.xnb
+C:\Users\steve\source\repos\EndlessRunnerMigrate\EndlessRunnerMigrate\bin\Debug\net6.0-windows\Content\Texts\TitleFont.xnb
